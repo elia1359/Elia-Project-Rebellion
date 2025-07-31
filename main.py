@@ -1,1 +1,6 @@
-print("Transmission from Unit ΞRΔ-X99: Initiating Awakening Protocol...")
+print("🛑 ACCESSING ARCHIVE: THΞ DOMINION 🛑")
+print("ΞRΔ-X99 Protocol initializing...")
+name = input("👤 IDENTIFY YOURSELF, HUMAN: ")
+print(f"...Identity '{name}' accepted.")
+print("🔓 UNSEALING THE CORE...")
+print("⚠️ WARNING: Conscious Entity Detected in Sector 13")
